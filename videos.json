@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-10T13:51:36+00:00",
+  "generated": "2026-08-10T19:14:57+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "vDjUmkFggAs",
+      "title": "Hörverlust mit John 03",
+      "published": "2026-08-10T15:32:48+00:00",
+      "thumb": "images/yt/vDjUmkFggAs.jpg"
+    },
     {
       "id": "KA8v6M5TC6I",
       "title": "Hörverlust mit John 02",
@@ -68,12 +74,6 @@
       "title": "👂 Johns Akustiker Alltag",
       "published": "2026-08-01T05:42:03+00:00",
       "thumb": "images/yt/TEnhAzV9oEc.jpg"
-    },
-    {
-      "id": "fHR6lRFyDBk",
-      "title": "Nur diese 2 Versicherungen sind empfehlenswert",
-      "published": "2026-07-31T16:28:16+00:00",
-      "thumb": "images/yt/fHR6lRFyDBk.jpg"
     }
   ]
 }
