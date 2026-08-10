@@ -1,0 +1,47 @@
+name: YouTube-Feed aktualisieren
+
+# Aktualisiert videos.json aus dem YouTube-RSS-Feed von @AkustikerJohn.
+# Läuft alle 6 Stunden automatisch, bei jedem Push und manuell auslösbar.
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # alle 6 Stunden
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_youtube.py"
+      - ".github/workflows/youtube-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-feed
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feed abrufen
+        run: python3 scripts/fetch_youtube.py
+
+      - name: Änderungen committen (falls vorhanden)
+        run: |
+          if [[ -n "$(git status --porcelain videos.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add videos.json
+            git commit -m "YouTube-Feed aktualisiert (automatisch)"
+            git push
+          else
+            echo "Keine Änderungen am Feed."
+          fi
