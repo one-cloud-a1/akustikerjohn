@@ -36,10 +36,10 @@ jobs:
 
       - name: Änderungen committen (falls vorhanden)
         run: |
-          if [[ -n "$(git status --porcelain videos.json)" ]]; then
+          if [[ -n "$(git status --porcelain videos.json images/yt)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add videos.json
+            git add videos.json images/yt
             git commit -m "YouTube-Feed aktualisiert (automatisch)"
             git push
           else

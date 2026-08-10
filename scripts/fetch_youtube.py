@@ -15,7 +15,9 @@ from datetime import datetime, timezone
 CHANNEL_ID = "UCFLibbi9xb_a4uBMt9tVcVQ"   # @AkustikerJohn
 HANDLE = "AkustikerJohn"
 MAX_VIDEOS = 12
-OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "videos.json")
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT = os.path.join(ROOT, "videos.json")
+THUMB_DIR = os.path.join(ROOT, "images", "yt")   # lokal gespiegelte Vorschaubilder (DSGVO)
 
 UA = "Mozilla/5.0 (compatible; AkustikerJohnBot/1.0)"
 
@@ -61,6 +63,41 @@ def fetch_feed(channel_id):
     return channel, videos
 
 
+def mirror_thumbnails(videos):
+    """Lädt die Vorschaubilder lokal nach images/yt/ (kein Google-Request beim
+    Seitenaufruf). Setzt bei Erfolg das Feld 'thumb' auf den lokalen Pfad und
+    entfernt nicht mehr benötigte Bilder."""
+    os.makedirs(THUMB_DIR, exist_ok=True)
+    keep = set()
+    for v in videos:
+        vid = v["id"]
+        dest = os.path.join(THUMB_DIR, f"{vid}.jpg")
+        rel = f"images/yt/{vid}.jpg"
+        if not os.path.exists(dest):
+            got = False
+            for name in ("hqdefault", "mqdefault"):
+                try:
+                    data = _get(f"https://i.ytimg.com/vi/{vid}/{name}.jpg")
+                    if data and len(data) > 1000:
+                        with open(dest, "wb") as fh:
+                            fh.write(data)
+                        got = True
+                        break
+                except Exception as e:  # noqa: BLE001
+                    print(f"thumb {vid} ({name}) fehlgeschlagen: {e}", file=sys.stderr)
+            if not got:
+                continue
+        v["thumb"] = rel
+        keep.add(f"{vid}.jpg")
+    # Verwaiste Thumbnails aufräumen
+    for f in os.listdir(THUMB_DIR):
+        if f.endswith(".jpg") and f not in keep:
+            try:
+                os.remove(os.path.join(THUMB_DIR, f))
+            except OSError:
+                pass
+
+
 def main():
     cid = CHANNEL_ID
     try:
@@ -72,11 +109,14 @@ def main():
         cid = resolve_channel_id()
         channel, videos = fetch_feed(cid)
 
+    videos = videos[:MAX_VIDEOS]
+    mirror_thumbnails(videos)
+
     payload = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "channel": channel,
         "channelUrl": f"https://www.youtube.com/@{HANDLE}",
-        "videos": videos[:MAX_VIDEOS],
+        "videos": videos,
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
