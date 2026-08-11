@@ -102,7 +102,7 @@
 :root {
   --ink: #12222e;
   --ink-soft: #42525d;
-  --muted: #6b7b86;
+  --muted: #5c6a73;
   --line: #e4edf4;
   --bg: #ffffff;
   --bg-soft: #f3f8fd;
@@ -140,7 +140,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 img { max-width: 100%; display: block; }
-a { color: var(--primary-600); text-decoration: none; }
+a { color: var(--primary-700); text-decoration: none; }
 a:hover { color: var(--primary-700); }
 
 h1, h2, h3, h4 { font-family: var(--font-head); line-height: 1.15; color: var(--ink); font-weight: 700; letter-spacing: -0.02em; }
@@ -159,7 +159,7 @@ p { margin: 0 0 1em; }
 .eyebrow {
   display: inline-block; font-family: var(--font-head); font-weight: 600;
   font-size: .8rem; letter-spacing: .12em; text-transform: uppercase;
-  color: var(--primary-600); margin-bottom: 14px;
+  color: var(--primary-700); margin-bottom: 14px;
 }
 .section--primary .eyebrow { color: var(--accent); }
 .lead { font-size: 1.18rem; color: var(--ink-soft); }
@@ -173,8 +173,8 @@ p { margin: 0 0 1em; }
   white-space: nowrap;
 }
 .btn:hover { transform: translateY(-2px); }
-.btn-primary { background: var(--primary); color: #fff; box-shadow: 0 10px 24px rgba(0,105,190,.30); }
-.btn-primary:hover { background: var(--primary-600); color: #fff; }
+.btn-primary { background: #0071c5; color: #fff; box-shadow: 0 10px 24px rgba(0,105,190,.30); }
+.btn-primary:hover { background: #005fa6; color: #fff; }
 .btn-accent { background: #fff; color: var(--primary-700); box-shadow: 0 10px 24px rgba(0,40,90,.22); }
 .btn-accent:hover { background: #f0f7ff; color: var(--primary-700); }
 .btn-ghost { background: transparent; color: var(--primary-700); border-color: var(--line); }
@@ -380,4 +380,28 @@ p { margin: 0 0 1em; }
   .btn-light { background: #fff; }
   .nav.open { background: #101f2b; }
   .hero-photo, .split-photo, .video-thumb, .shop-card { background: var(--bg-tint); }
+}
+
+/* ---------- Barrierefreiheit: Tastatur-Fokus ---------- */
+a:focus-visible,
+button:focus-visible,
+.btn:focus-visible,
+.faq-q:focus-visible,
+.nav-toggle:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid var(--ink);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+.faq-q:focus-visible { outline-offset: -3px; }
+
+/* ---------- Barrierefreiheit: reduzierte Bewegung ---------- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .reveal { opacity: 1 !important; transform: none !important; }
 }

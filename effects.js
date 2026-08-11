@@ -31,11 +31,28 @@
     reveals.forEach(function (el) { el.classList.add("in"); });
   }
 
-  /* FAQ accordion */
-  document.querySelectorAll(".faq-q").forEach(function (q) {
+  /* FAQ accordion (barrierefrei: aria-expanded / aria-controls) */
+  document.querySelectorAll(".faq-q").forEach(function (q, i) {
+    var item = q.parentElement;
+    var answer = item.querySelector(".faq-a");
+    var open = item.classList.contains("open");
+    q.setAttribute("type", "button");
+    q.setAttribute("aria-expanded", open ? "true" : "false");
+    if (answer) {
+      if (!answer.id) answer.id = "faq-a-" + (i + 1);
+      q.setAttribute("aria-controls", answer.id);
+      answer.setAttribute("role", "region");
+    }
     q.addEventListener("click", function () {
-      q.parentElement.classList.toggle("open");
+      var nowOpen = item.classList.toggle("open");
+      q.setAttribute("aria-expanded", nowOpen ? "true" : "false");
     });
+  });
+
+  /* Dekorative Inline-SVGs vor Screenreadern verbergen */
+  document.querySelectorAll("svg").forEach(function (s) {
+    if (!s.querySelector("title")) s.setAttribute("aria-hidden", "true");
+    s.setAttribute("focusable", "false");
   });
 
   /* Active nav highlight by path */
