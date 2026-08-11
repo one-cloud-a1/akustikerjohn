@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-11T13:40:24+00:00",
+  "generated": "2026-08-11T19:18:02+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "L3Ba45QATeE",
+      "title": "Hörverlust mit John 11",
+      "published": "2026-08-11T16:33:06+00:00",
+      "thumb": "images/yt/L3Ba45QATeE.jpg"
+    },
     {
       "id": "p3mJWPUujtA",
       "title": "Dein Ohr in guten Händen",
@@ -68,12 +74,6 @@
       "title": "Wenn Kunden plötzlich Experten werden 🤦 #kundenkontakt #retail #humor",
       "published": "2026-07-31T06:11:42+00:00",
       "thumb": "images/yt/6riFwYAlgxU.jpg"
-    },
-    {
-      "id": "VifXm6zvbN8",
-      "title": "Würdest du 500 € für einen Teppich ausgeben? 😅👇",
-      "published": "2026-07-30T05:27:30+00:00",
-      "thumb": "images/yt/VifXm6zvbN8.jpg"
     }
   ]
 }
