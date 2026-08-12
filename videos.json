@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-12T07:50:25+00:00",
+  "generated": "2026-08-12T13:44:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "67kxwVuQa9c",
+      "title": "Bereit für die Sonnenfinsterni?",
+      "published": "2026-08-12T10:47:48+00:00",
+      "thumb": "images/yt/67kxwVuQa9c.jpg"
+    },
     {
       "id": "MBsaDAqjb7o",
       "title": "Fahrt sicher 🫡",
@@ -68,12 +74,6 @@
       "title": "Können Ohrenkneifer deinen Ohren wirklich schaden? 🤔👇",
       "published": "2026-08-04T05:51:49+00:00",
       "thumb": "images/yt/Cf6v5R5vHB8.jpg"
-    },
-    {
-      "id": "5iYHtSBH8Us",
-      "title": "Kennst du Jungkook oder BTS? 💜👇",
-      "published": "2026-08-02T06:30:16+00:00",
-      "thumb": "images/yt/5iYHtSBH8Us.jpg"
     }
   ]
 }
