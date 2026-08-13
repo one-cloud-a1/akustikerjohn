@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-12T19:18:08+00:00",
+  "generated": "2026-08-13T07:51:08+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "7tOQ5L_7dYI",
+      "title": "Hörverlust mit John 12",
+      "published": "2026-08-13T05:20:05+00:00",
+      "thumb": "images/yt/7tOQ5L_7dYI.jpg"
+    },
     {
       "id": "67kxwVuQa9c",
       "title": "Bereit für die Sonnenfinsternis?",
@@ -68,12 +74,6 @@
       "title": "Welchen Hersteller hast du?",
       "published": "2026-08-05T07:12:55+00:00",
       "thumb": "images/yt/vEJ46ACKygc.jpg"
-    },
-    {
-      "id": "Cf6v5R5vHB8",
-      "title": "Können Ohrenkneifer deinen Ohren wirklich schaden? 🤔👇",
-      "published": "2026-08-04T05:51:49+00:00",
-      "thumb": "images/yt/Cf6v5R5vHB8.jpg"
     }
   ]
 }
