@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -98,19 +99,39 @@ def mirror_thumbnails(videos):
                 pass
 
 
+def fetch_feed_with_retry(attempts=3):
+    """Holt den Feed mit mehreren Versuchen. YouTube drosselt Rechenzentrums-IPs
+    (z. B. GitHub Actions) gelegentlich mit 404/429 – deshalb Retries + Backoff."""
+    last = None
+    for i in range(attempts):
+        cid = CHANNEL_ID if i == 0 else resolve_channel_id()
+        try:
+            channel, videos = fetch_feed(cid)
+            if videos:
+                return channel, videos
+            last = "leerer Feed"
+        except Exception as e:  # noqa: BLE001
+            last = e
+            print(f"Feed-Abruf Versuch {i + 1}/{attempts} fehlgeschlagen: {e}", file=sys.stderr)
+        if i < attempts - 1:
+            time.sleep(5 * (i + 1))
+    raise RuntimeError(f"Feed nach {attempts} Versuchen nicht erreichbar: {last}")
+
+
 def main():
-    cid = CHANNEL_ID
+    # Netzwerkfehler dürfen den Job NICHT scheitern lassen (sonst tägliche
+    # Fehlermail). Bei Problemen bleibt die zuletzt erzeugte videos.json stehen.
     try:
-        channel, videos = fetch_feed(cid)
-        if not videos:
-            raise ValueError("leerer Feed")
+        channel, videos = fetch_feed_with_retry()
     except Exception as e:  # noqa: BLE001
-        print(f"Primärabruf fehlgeschlagen ({e}), versuche Handle-Auflösung …", file=sys.stderr)
-        cid = resolve_channel_id()
-        channel, videos = fetch_feed(cid)
+        print(f"[Warnung] {e} – bestehende videos.json bleibt unverändert.", file=sys.stderr)
+        return
 
     videos = videos[:MAX_VIDEOS]
-    mirror_thumbnails(videos)
+    try:
+        mirror_thumbnails(videos)
+    except Exception as e:  # noqa: BLE001
+        print(f"[Warnung] Thumbnail-Spiegelung unvollständig: {e}", file=sys.stderr)
 
     payload = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
