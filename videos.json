@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-13T07:51:08+00:00",
+  "generated": "2026-08-13T12:42:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "xiYYJhX-fsE",
+      "title": "Wir machen auch Bike Gehörschutz!",
+      "published": "2026-08-13T08:53:22+00:00",
+      "thumb": "images/yt/xiYYJhX-fsE.jpg"
+    },
     {
       "id": "7tOQ5L_7dYI",
       "title": "Hörverlust mit John 12",
@@ -68,12 +74,6 @@
       "title": "Wie gut schläfst du?",
       "published": "2026-08-06T06:11:05+00:00",
       "thumb": "images/yt/ztgArKVBacA.jpg"
-    },
-    {
-      "id": "vEJ46ACKygc",
-      "title": "Welchen Hersteller hast du?",
-      "published": "2026-08-05T07:12:55+00:00",
-      "thumb": "images/yt/vEJ46ACKygc.jpg"
     }
   ]
 }
