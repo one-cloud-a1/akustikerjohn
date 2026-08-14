@@ -229,7 +229,7 @@ p { margin: 0 0 1em; }
 
 /* ---------- Hero ---------- */
 .hero { position: relative; overflow: hidden; background: radial-gradient(1100px 500px at 78% -8%, var(--primary-050), transparent 60%), var(--bg); }
-.hero-grid { display: grid; grid-template-columns: 1.08fr .92fr; gap: 52px; align-items: center; padding: 78px 0 88px; }
+.hero-grid { display: grid; grid-template-columns: 1.08fr .92fr; gap: 52px; align-items: center; padding-block: 78px 88px; }
 .hero h1 span { color: var(--primary); }
 .hero .lead { max-width: 520px; }
 .hero-cta { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 26px; }
@@ -245,7 +245,7 @@ p { margin: 0 0 1em; }
 .hero-badge b { font-family: var(--font-head); display: block; line-height: 1.1; }
 .hero-badge small { color: var(--muted); font-size: .82rem; }
 @media (max-width: 860px) {
-  .hero-grid { grid-template-columns: 1fr; gap: 34px; padding: 48px 0 60px; }
+  .hero-grid { grid-template-columns: 1fr; gap: 34px; padding-block: 48px 60px; }
   .hero-media { max-width: 420px; }
 }
 
@@ -272,7 +272,7 @@ p { margin: 0 0 1em; }
 .split { display: grid; grid-template-columns: 1fr 1fr; gap: 52px; align-items: center; }
 .split.rev > :first-child { order: 2; }
 @media (max-width: 860px) { .split { grid-template-columns: 1fr; gap: 30px; } .split.rev > :first-child { order: 0; } }
-.split-photo { border-radius: var(--radius-lg); box-shadow: var(--shadow-lg); width: 100%; object-fit: cover; aspect-ratio: 1/1; background: var(--bg-tint); }
+.split-photo { border-radius: var(--radius-lg); box-shadow: var(--shadow-lg); width: 100%; height: auto; object-fit: cover; aspect-ratio: 1/1; background: var(--bg-tint); }
 .checklist { list-style: none; padding: 0; margin: 18px 0 0; display: grid; gap: 12px; }
 .checklist li { display: flex; gap: 12px; align-items: flex-start; color: var(--ink-soft); }
 .checklist li::before { content: "✓"; flex: none; width: 24px; height: 24px; border-radius: 50%; background: var(--primary-050); color: var(--primary-700); display: grid; place-items: center; font-weight: 700; font-size: .8rem; margin-top: 2px; }
