@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-14T07:48:28+00:00",
+  "generated": "2026-08-14T13:40:06+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "wMjI6FRPp0U",
+      "title": "Was ist deine Lieblingssorte?",
+      "published": "2026-08-14T11:43:23+00:00",
+      "thumb": "images/yt/wMjI6FRPp0U.jpg"
+    },
     {
       "id": "_HT0n67CPMI",
       "title": "Wie stehen die Chancen?",
@@ -68,12 +74,6 @@
       "title": "Welche Schoki wirds?",
       "published": "2026-08-08T07:04:44+00:00",
       "thumb": "images/yt/_bCjOqSy_yo.jpg"
-    },
-    {
-      "id": "bBHQTlp_Tu8",
-      "title": "Was glaubst du, was ich hier gerade anschaue? 👽👇",
-      "published": "2026-08-07T06:20:18+00:00",
-      "thumb": "images/yt/bBHQTlp_Tu8.jpg"
     }
   ]
 }
