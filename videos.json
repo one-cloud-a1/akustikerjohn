@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-14T02:43:44+00:00",
+  "generated": "2026-08-14T07:48:28+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "_HT0n67CPMI",
+      "title": "Wie stehen die Chancen?",
+      "published": "2026-08-14T06:01:44+00:00",
+      "thumb": "images/yt/_HT0n67CPMI.jpg"
+    },
     {
       "id": "xiYYJhX-fsE",
       "title": "Wir machen auch Bike Gehörschutz!",
@@ -68,12 +74,6 @@
       "title": "Was glaubst du, was ich hier gerade anschaue? 👽👇",
       "published": "2026-08-07T06:20:18+00:00",
       "thumb": "images/yt/bBHQTlp_Tu8.jpg"
-    },
-    {
-      "id": "ztgArKVBacA",
-      "title": "Wie gut schläfst du?",
-      "published": "2026-08-06T06:11:05+00:00",
-      "thumb": "images/yt/ztgArKVBacA.jpg"
     }
   ]
 }
