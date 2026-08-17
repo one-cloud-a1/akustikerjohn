@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-17T07:14:45+00:00",
+  "generated": "2026-08-17T13:04:09+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "9hocYgpCXAA",
+      "title": "Kennst du BTS?",
+      "published": "2026-08-17T09:03:50+00:00",
+      "thumb": "images/yt/9hocYgpCXAA.jpg"
+    },
     {
       "id": "6_RhZMmNAmY",
       "title": "Hörverlust mit John 09",
@@ -68,12 +74,6 @@
       "title": "Dein Ohr in guten Händen",
       "published": "2026-08-11T12:41:07+00:00",
       "thumb": "images/yt/p3mJWPUujtA.jpg"
-    },
-    {
-      "id": "BoHWm4X5ZHY",
-      "title": "Hörverlust mit John 05",
-      "published": "2026-08-11T06:15:56+00:00",
-      "thumb": "images/yt/BoHWm4X5ZHY.jpg"
     }
   ]
 }
