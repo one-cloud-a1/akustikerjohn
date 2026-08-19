@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-19T01:51:52+00:00",
+  "generated": "2026-08-19T07:04:00+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "9yxtmRvItZY",
+      "title": "Hörverlust mit John 15",
+      "published": "2026-08-19T06:27:12+00:00",
+      "thumb": "images/yt/9yxtmRvItZY.jpg"
+    },
     {
       "id": "c8dRGlfIY9Q",
       "title": "Hörverlust mit John 21",
@@ -68,12 +74,6 @@
       "title": "Bereit für die Sonnenfinsternis?",
       "published": "2026-08-12T10:47:48+00:00",
       "thumb": "images/yt/67kxwVuQa9c.jpg"
-    },
-    {
-      "id": "MBsaDAqjb7o",
-      "title": "Fahrt sicher 🫡",
-      "published": "2026-08-12T04:30:24+00:00",
-      "thumb": "images/yt/MBsaDAqjb7o.jpg"
     }
   ]
 }
