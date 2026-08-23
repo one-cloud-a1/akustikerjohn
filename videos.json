@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-23T01:58:31+00:00",
+  "generated": "2026-08-23T06:59:14+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "rXZYWqbpAfs",
+      "title": "Hörverlust mit John 18",
+      "published": "2026-08-23T05:51:59+00:00",
+      "thumb": "images/yt/rXZYWqbpAfs.jpg"
+    },
     {
       "id": "cgrnA9Zt-wE",
       "title": "Hörverlust mit John 06",
@@ -68,12 +74,6 @@
       "title": "Hörverlust mit John 08",
       "published": "2026-08-15T10:59:00+00:00",
       "thumb": "images/yt/vu1RQMBNjK0.jpg"
-    },
-    {
-      "id": "d9ojBwovrQQ",
-      "title": "Sand?",
-      "published": "2026-08-15T09:40:10+00:00",
-      "thumb": "images/yt/d9ojBwovrQQ.jpg"
     }
   ]
 }
