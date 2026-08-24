@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-24T07:19:08+00:00",
+  "generated": "2026-08-24T13:11:45+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "6MqBUuW50lI",
+      "title": "Hörverlust im Alltag 17",
+      "published": "2026-08-24T07:24:15+00:00",
+      "thumb": "images/yt/6MqBUuW50lI.jpg"
+    },
     {
       "id": "rXZYWqbpAfs",
       "title": "Hörverlust mit John 18",
@@ -68,12 +74,6 @@
       "title": "Kennst du BTS?",
       "published": "2026-08-17T09:03:50+00:00",
       "thumb": "images/yt/9hocYgpCXAA.jpg"
-    },
-    {
-      "id": "vu1RQMBNjK0",
-      "title": "Hörverlust mit John 08",
-      "published": "2026-08-15T10:59:00+00:00",
-      "thumb": "images/yt/vu1RQMBNjK0.jpg"
     }
   ]
 }
