@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-25T13:09:48+00:00",
+  "generated": "2026-08-25T18:55:33+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "dz16Ei2bs8g",
+      "title": "😳",
+      "published": "2026-08-25T13:33:36+00:00",
+      "thumb": "images/yt/dz16Ei2bs8g.jpg"
+    },
     {
       "id": "DAW5_p03IYc",
       "title": "Hörverlust im Alltag 33",
@@ -68,12 +74,6 @@
       "title": "Das geht auf die Ohren",
       "published": "2026-08-18T06:10:28+00:00",
       "thumb": "images/yt/Ch0XBwDK1jw.jpg"
-    },
-    {
-      "id": "mSeqqsJ0Wgk",
-      "title": "Hörverlust mit John 10",
-      "published": "2026-08-17T15:27:21+00:00",
-      "thumb": "images/yt/mSeqqsJ0Wgk.jpg"
     }
   ]
 }
