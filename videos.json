@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-26T20:01:31+00:00",
+  "generated": "2026-08-27T09:43:50+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "QQpgAA8BJsE",
+      "title": "Kennst du so jemand?",
+      "published": "2026-08-27T05:48:25+00:00",
+      "thumb": "images/yt/QQpgAA8BJsE.jpg"
+    },
     {
       "id": "5UqZyWXi77U",
       "title": "Hörverlust mit John 26",
@@ -68,12 +74,6 @@
       "title": "Kennst du V?",
       "published": "2026-08-19T12:00:26+00:00",
       "thumb": "images/yt/2dkBg6iNU6w.jpg"
-    },
-    {
-      "id": "9yxtmRvItZY",
-      "title": "Hörverlust mit John 15",
-      "published": "2026-08-19T06:27:12+00:00",
-      "thumb": "images/yt/9yxtmRvItZY.jpg"
     }
   ]
 }
