@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-28T11:20:37+00:00",
+  "generated": "2026-08-28T22:16:55+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "ZZpdk-U-Iqc",
+      "title": "Hin oder Weg?",
+      "published": "2026-08-28T18:47:45+00:00",
+      "thumb": "images/yt/ZZpdk-U-Iqc.jpg"
+    },
     {
       "id": "6nsnc7laxBQ",
       "title": "Hörverlust im Alltag 31",
@@ -68,12 +74,6 @@
       "title": "Wir haben auch Freizeit Gehörschutz",
       "published": "2026-08-21T04:33:03+00:00",
       "thumb": "images/yt/DsOYFLsRJmY.jpg"
-    },
-    {
-      "id": "u-tbhBHheBs",
-      "title": "Hörverlust mit John 29",
-      "published": "2026-08-20T10:22:11+00:00",
-      "thumb": "images/yt/u-tbhBHheBs.jpg"
     }
   ]
 }
