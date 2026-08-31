@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-31T05:30:14+00:00",
+  "generated": "2026-08-31T13:44:26+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "ELGxATkGoJE",
+      "title": "Hörverlust im Alltag 32",
+      "published": "2026-08-31T10:37:51+00:00",
+      "thumb": "images/yt/ELGxATkGoJE.jpg"
+    },
     {
       "id": "98kcuVDJdbw",
       "title": "Hast du Fragen?",
@@ -68,12 +74,6 @@
       "title": "Hörverlust im Alltag 33",
       "published": "2026-08-25T06:24:19+00:00",
       "thumb": "images/yt/DAW5_p03IYc.jpg"
-    },
-    {
-      "id": "6MqBUuW50lI",
-      "title": "Hörverlust im Alltag 17",
-      "published": "2026-08-24T07:24:15+00:00",
-      "thumb": "images/yt/6MqBUuW50lI.jpg"
     }
   ]
 }
