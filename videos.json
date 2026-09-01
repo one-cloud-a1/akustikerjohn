@@ -1,19 +1,25 @@
 {
-  "generated": "2026-08-31T22:48:34+00:00",
+  "generated": "2026-09-01T11:36:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "9udrVI1gY_o",
+      "title": "Hörverlust mit John 28",
+      "published": "2026-09-01T09:49:14+00:00",
+      "thumb": "images/yt/9udrVI1gY_o.jpg"
+    },
+    {
+      "id": "9l-LtsEzbik",
+      "title": "Hörverlust mit John 26",
+      "published": "2026-09-01T08:13:39+00:00",
+      "thumb": "images/yt/9l-LtsEzbik.jpg"
+    },
     {
       "id": "v9Ix2ej0beY",
       "title": "Wer mag Hagel?",
       "published": "2026-08-31T16:11:06+00:00",
       "thumb": "images/yt/v9Ix2ej0beY.jpg"
-    },
-    {
-      "id": "ELGxATkGoJE",
-      "title": "Hörverlust im Alltag 32",
-      "published": "2026-08-31T10:37:51+00:00",
-      "thumb": "images/yt/ELGxATkGoJE.jpg"
     },
     {
       "id": "98kcuVDJdbw",
@@ -68,12 +74,6 @@
       "title": "Hörverlust mit John 27",
       "published": "2026-08-26T07:37:39+00:00",
       "thumb": "images/yt/C1aHT-cj0DE.jpg"
-    },
-    {
-      "id": "dz16Ei2bs8g",
-      "title": "😳",
-      "published": "2026-08-25T13:33:36+00:00",
-      "thumb": "images/yt/dz16Ei2bs8g.jpg"
     }
   ]
 }
