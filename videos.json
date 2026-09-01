@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-01T16:37:26+00:00",
+  "generated": "2026-09-01T21:00:36+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "2nAbMCDr4WM",
+      "title": "Magst du Regen?",
+      "published": "2026-09-01T17:04:55+00:00",
+      "thumb": "images/yt/2nAbMCDr4WM.jpg"
+    },
     {
       "id": "9udrVI1gY_o",
       "title": "Hörverlust mit John 28",
@@ -68,12 +74,6 @@
       "title": "Hörverlust mit John 26",
       "published": "2026-08-26T16:05:33+00:00",
       "thumb": "images/yt/5UqZyWXi77U.jpg"
-    },
-    {
-      "id": "C1aHT-cj0DE",
-      "title": "Hörverlust mit John 27",
-      "published": "2026-08-26T07:37:39+00:00",
-      "thumb": "images/yt/C1aHT-cj0DE.jpg"
     }
   ]
 }
