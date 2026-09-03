@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-02T21:01:02+00:00",
+  "generated": "2026-09-03T11:11:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "Jf7pcz9AbAQ",
+      "title": "Hörverlust mit John 54",
+      "published": "2026-09-03T07:11:42+00:00",
+      "thumb": "images/yt/Jf7pcz9AbAQ.jpg"
+    },
     {
       "id": "UrZPk6A95Nk",
       "title": "Hörverlust mit John 40",
@@ -68,12 +74,6 @@
       "title": "Kann es alles?",
       "published": "2026-08-27T10:54:30+00:00",
       "thumb": "images/yt/GsCnUdlvnd4.jpg"
-    },
-    {
-      "id": "QQpgAA8BJsE",
-      "title": "Kennst du so jemand?",
-      "published": "2026-08-27T05:48:25+00:00",
-      "thumb": "images/yt/QQpgAA8BJsE.jpg"
     }
   ]
 }
