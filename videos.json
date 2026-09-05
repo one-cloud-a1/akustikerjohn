@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-04T20:43:57+00:00",
+  "generated": "2026-09-05T10:32:18+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "PoUdbQWLbsE",
+      "title": "Schonmal Regen so gehört?",
+      "published": "2026-09-05T05:52:56+00:00",
+      "thumb": "images/yt/PoUdbQWLbsE.jpg"
+    },
     {
       "id": "HORdNoLdMQM",
       "title": "Die Alterslüge",
@@ -68,12 +74,6 @@
       "title": "Hörverlust mit John 37",
       "published": "2026-08-29T07:13:02+00:00",
       "thumb": "images/yt/4W05dsBJFi4.jpg"
-    },
-    {
-      "id": "ZZpdk-U-Iqc",
-      "title": "Hin oder Weg?",
-      "published": "2026-08-28T18:47:45+00:00",
-      "thumb": "images/yt/ZZpdk-U-Iqc.jpg"
     }
   ]
 }
