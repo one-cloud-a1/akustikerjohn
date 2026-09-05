@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-05T10:32:18+00:00",
+  "generated": "2026-09-05T15:11:00+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "Oxckw9L_h-4",
+      "title": "Radfahren schonmal so gehört?",
+      "published": "2026-09-05T11:33:17+00:00",
+      "thumb": "images/yt/Oxckw9L_h-4.jpg"
+    },
     {
       "id": "PoUdbQWLbsE",
       "title": "Schonmal Regen so gehört?",
@@ -68,12 +74,6 @@
       "title": "Für wen bist du dankbar?",
       "published": "2026-08-29T14:41:10+00:00",
       "thumb": "images/yt/dkJRFYwDKd0.jpg"
-    },
-    {
-      "id": "4W05dsBJFi4",
-      "title": "Hörverlust mit John 37",
-      "published": "2026-08-29T07:13:02+00:00",
-      "thumb": "images/yt/4W05dsBJFi4.jpg"
     }
   ]
 }
