@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-06T04:35:16+00:00",
+  "generated": "2026-09-06T10:53:09+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "iibnDFja1TY",
+      "title": "Dear young people",
+      "published": "2026-09-06T06:39:32+00:00",
+      "thumb": "images/yt/iibnDFja1TY.jpg"
+    },
     {
       "id": "Oxckw9L_h-4",
       "title": "Radfahren schonmal so gehört?",
@@ -68,12 +74,6 @@
       "title": "Hast du Fragen?",
       "published": "2026-08-30T07:13:45+00:00",
       "thumb": "images/yt/98kcuVDJdbw.jpg"
-    },
-    {
-      "id": "dkJRFYwDKd0",
-      "title": "Für wen bist du dankbar?",
-      "published": "2026-08-29T14:41:10+00:00",
-      "thumb": "images/yt/dkJRFYwDKd0.jpg"
     }
   ]
 }
