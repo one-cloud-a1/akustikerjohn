@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-15T21:18:12+00:00",
+  "generated": "2026-09-16T11:28:20+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "hUf0A1hppaQ",
+      "title": "Hörverlust im Alltag 40",
+      "published": "2026-09-16T05:42:37+00:00",
+      "thumb": "images/yt/hUf0A1hppaQ.jpg"
+    },
     {
       "id": "8TuQTx2BHuE",
       "title": "20 Jahre Unterschied",
@@ -68,12 +74,6 @@
       "title": "Schonmal Regen so gehört?",
       "published": "2026-09-05T05:52:56+00:00",
       "thumb": "images/yt/PoUdbQWLbsE.jpg"
-    },
-    {
-      "id": "HORdNoLdMQM",
-      "title": "Die Alterslüge",
-      "published": "2026-09-04T10:25:43+00:00",
-      "thumb": "images/yt/HORdNoLdMQM.jpg"
     }
   ]
 }
