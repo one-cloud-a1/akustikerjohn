@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-16T21:15:37+00:00",
+  "generated": "2026-09-17T11:38:11+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "L9-NA7p3m80",
+      "title": "Hörverlust im Alltag 39",
+      "published": "2026-09-17T06:00:50+00:00",
+      "thumb": "images/yt/L9-NA7p3m80.jpg"
+    },
     {
       "id": "hUf0A1hppaQ",
       "title": "Hörverlust im Alltag 40",
@@ -68,12 +74,6 @@
       "title": "Radfahren schonmal so gehört?",
       "published": "2026-09-05T11:33:17+00:00",
       "thumb": "images/yt/Oxckw9L_h-4.jpg"
-    },
-    {
-      "id": "PoUdbQWLbsE",
-      "title": "Schonmal Regen so gehört?",
-      "published": "2026-09-05T05:52:56+00:00",
-      "thumb": "images/yt/PoUdbQWLbsE.jpg"
     }
   ]
 }
