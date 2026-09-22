@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-22T16:55:26+00:00",
+  "generated": "2026-09-22T21:16:08+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "YyywIVXK3h4",
+      "title": "Hörverlust im Alltag 49",
+      "published": "2026-09-22T18:22:00+00:00",
+      "thumb": "images/yt/YyywIVXK3h4.jpg"
+    },
     {
       "id": "cldvY3UZKTM",
       "title": "Hörverlust im Alltag 35",
@@ -68,12 +74,6 @@
       "title": "Hörverlust mit John 42",
       "published": "2026-09-11T17:54:44+00:00",
       "thumb": "images/yt/u9a5HapE-x4.jpg"
-    },
-    {
-      "id": "mGE0NMDv4fo",
-      "title": "Guter Beifahrer?",
-      "published": "2026-09-10T13:51:34+00:00",
-      "thumb": "images/yt/mGE0NMDv4fo.jpg"
     }
   ]
 }
