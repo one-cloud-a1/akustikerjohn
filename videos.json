@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-23T11:31:25+00:00",
+  "generated": "2026-09-23T16:54:46+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "yVT8QwvxO6I",
+      "title": "Team Folie drauf oder ab?",
+      "published": "2026-09-23T13:04:02+00:00",
+      "thumb": "images/yt/yVT8QwvxO6I.jpg"
+    },
     {
       "id": "YyywIVXK3h4",
       "title": "Hörverlust im Alltag 49",
@@ -68,12 +74,6 @@
       "title": "Wie gut hörst du? 👇",
       "published": "2026-09-12T07:14:50+00:00",
       "thumb": "images/yt/LcCkmDHkpFo.jpg"
-    },
-    {
-      "id": "u9a5HapE-x4",
-      "title": "Hörverlust mit John 42",
-      "published": "2026-09-11T17:54:44+00:00",
-      "thumb": "images/yt/u9a5HapE-x4.jpg"
     }
   ]
 }
