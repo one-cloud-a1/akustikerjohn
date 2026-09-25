@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-25T11:47:33+00:00",
+  "generated": "2026-09-25T17:08:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "8komXH1SX9M",
+      "title": "Hörverlust im Alltag 52",
+      "published": "2026-09-25T12:26:30+00:00",
+      "thumb": "images/yt/8komXH1SX9M.jpg"
+    },
     {
       "id": "uUG1oiq65X4",
       "title": "Wenns so einfach wär",
@@ -68,12 +74,6 @@
       "title": "CROS enge Gehörgänge",
       "published": "2026-09-14T18:04:07+00:00",
       "thumb": "images/yt/f2x0Or02_Zk.jpg"
-    },
-    {
-      "id": "D8APknKwy1c",
-      "title": "Hörverlust im Alltag 44",
-      "published": "2026-09-13T08:14:09+00:00",
-      "thumb": "images/yt/D8APknKwy1c.jpg"
     }
   ]
 }
