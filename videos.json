@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-26T21:07:05+00:00",
+  "generated": "2026-09-27T11:58:54+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "1WXmSbW4HJ8",
+      "title": "Hörverlust im Alltag 22",
+      "published": "2026-09-27T10:10:57+00:00",
+      "thumb": "images/yt/1WXmSbW4HJ8.jpg"
+    },
     {
       "id": "uiMsSmCTwC0",
       "title": "Wieder was gelernt",
@@ -68,12 +74,6 @@
       "title": "Hörverlust im Alltag 40",
       "published": "2026-09-16T05:42:37+00:00",
       "thumb": "images/yt/hUf0A1hppaQ.jpg"
-    },
-    {
-      "id": "8TuQTx2BHuE",
-      "title": "20 Jahre Unterschied",
-      "published": "2026-09-15T15:53:09+00:00",
-      "thumb": "images/yt/8TuQTx2BHuE.jpg"
     }
   ]
 }
