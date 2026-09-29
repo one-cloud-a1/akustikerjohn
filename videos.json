@@ -1,8 +1,20 @@
 {
-  "generated": "2026-09-29T12:48:41+00:00",
+  "generated": "2026-09-29T22:12:29+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "1Bv-9Ty-8MI",
+      "title": "Hörverlust im Alltag 57",
+      "published": "2026-09-29T15:39:13+00:00",
+      "thumb": "images/yt/1Bv-9Ty-8MI.jpg"
+    },
+    {
+      "id": "vyOKeynI-Mk",
+      "title": "Wir machen es passend",
+      "published": "2026-09-29T14:13:56+00:00",
+      "thumb": "images/yt/vyOKeynI-Mk.jpg"
+    },
     {
       "id": "6HP1FvEMUns",
       "title": "Tutorial fürs Ohr",
@@ -62,18 +74,6 @@
       "title": "Hövrlust im Alltag 16",
       "published": "2026-09-18T05:46:39+00:00",
       "thumb": "images/yt/OTmQxvuvCzg.jpg"
-    },
-    {
-      "id": "9spCaAA3gsM",
-      "title": "Hilfe am Ohr",
-      "published": "2026-09-17T16:02:35+00:00",
-      "thumb": "images/yt/9spCaAA3gsM.jpg"
-    },
-    {
-      "id": "L9-NA7p3m80",
-      "title": "Hörverlust im Alltag 39",
-      "published": "2026-09-17T06:00:50+00:00",
-      "thumb": "images/yt/L9-NA7p3m80.jpg"
     }
   ]
 }
