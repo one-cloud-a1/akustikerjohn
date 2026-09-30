@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-30T12:30:33+00:00",
+  "generated": "2026-09-30T22:12:44+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "4089IkDu6-I",
+      "title": "Welchen Hörverlust findest du am Schlimmsten 55",
+      "published": "2026-09-30T14:16:57+00:00",
+      "thumb": "images/yt/4089IkDu6-I.jpg"
+    },
     {
       "id": "C0q6PVbKvL0",
       "title": "Deine Frage ist wertvoll👇",
@@ -68,12 +74,6 @@
       "title": "Hörverlust im Alltag 35",
       "published": "2026-09-20T06:12:38+00:00",
       "thumb": "images/yt/cldvY3UZKTM.jpg"
-    },
-    {
-      "id": "Kr25BUOAtqE",
-      "title": "Wer hat eine?",
-      "published": "2026-09-19T07:49:24+00:00",
-      "thumb": "images/yt/Kr25BUOAtqE.jpg"
     }
   ]
 }
