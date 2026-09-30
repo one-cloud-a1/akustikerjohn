@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-29T22:12:29+00:00",
+  "generated": "2026-09-30T12:30:33+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "C0q6PVbKvL0",
+      "title": "Deine Frage ist wertvoll👇",
+      "published": "2026-09-30T10:35:29+00:00",
+      "thumb": "images/yt/C0q6PVbKvL0.jpg"
+    },
     {
       "id": "1Bv-9Ty-8MI",
       "title": "Hörverlust im Alltag 57",
@@ -68,12 +74,6 @@
       "title": "Wer hat eine?",
       "published": "2026-09-19T07:49:24+00:00",
       "thumb": "images/yt/Kr25BUOAtqE.jpg"
-    },
-    {
-      "id": "OTmQxvuvCzg",
-      "title": "Hövrlust im Alltag 16",
-      "published": "2026-09-18T05:46:39+00:00",
-      "thumb": "images/yt/OTmQxvuvCzg.jpg"
     }
   ]
 }
