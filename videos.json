@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-01T22:39:07+00:00",
+  "generated": "2026-10-02T12:29:47+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "UeskRkJfTcI",
+      "title": "Welcher Hörverlust ist der schlimmste? 67",
+      "published": "2026-10-02T11:55:37+00:00",
+      "thumb": "images/yt/UeskRkJfTcI.jpg"
+    },
     {
       "id": "1xnUHBcuZEY",
       "title": "Alles gehört? 🫣",
@@ -68,12 +74,6 @@
       "title": "Team Folie drauf oder ab?",
       "published": "2026-09-23T13:04:02+00:00",
       "thumb": "images/yt/yVT8QwvxO6I.jpg"
-    },
-    {
-      "id": "YyywIVXK3h4",
-      "title": "Hörverlust im Alltag 49",
-      "published": "2026-09-22T18:22:00+00:00",
-      "thumb": "images/yt/YyywIVXK3h4.jpg"
     }
   ]
 }
