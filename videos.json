@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-07T13:18:18+00:00",
+  "generated": "2026-10-07T23:03:07+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "I1u2M3BkDv4",
+      "title": "Welchen Hörverlust findest du am schlimmsten?",
+      "published": "2026-10-07T16:08:16+00:00",
+      "thumb": "images/yt/I1u2M3BkDv4.jpg"
+    },
+    {
+      "id": "Ta1btDJQ4r8",
+      "title": "So hört deine Oma 👇",
+      "published": "2026-10-07T15:46:38+00:00",
+      "thumb": "images/yt/Ta1btDJQ4r8.jpg"
+    },
     {
       "id": "Gxnt6_-fEbo",
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
@@ -62,18 +74,6 @@
       "title": "Welcher Hörverlust ist der schlimmste? 67",
       "published": "2026-10-02T11:55:37+00:00",
       "thumb": "images/yt/UeskRkJfTcI.jpg"
-    },
-    {
-      "id": "1xnUHBcuZEY",
-      "title": "Alles gehört? 🫣",
-      "published": "2026-10-01T11:53:45+00:00",
-      "thumb": "images/yt/1xnUHBcuZEY.jpg"
-    },
-    {
-      "id": "4089IkDu6-I",
-      "title": "Welchen Hörverlust findest du am Schlimmsten 55",
-      "published": "2026-09-30T14:16:57+00:00",
-      "thumb": "images/yt/4089IkDu6-I.jpg"
     }
   ]
 }
