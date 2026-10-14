@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-14T17:07:08+00:00",
+  "generated": "2026-10-14T21:38:25+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "qezmOc3T16U",
+      "title": "Was wolltest du schon immer über dein Ohr wissen?",
+      "published": "2026-10-14T18:46:22+00:00",
+      "thumb": "images/yt/qezmOc3T16U.jpg"
+    },
     {
       "id": "WZz2M_07lXs",
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
@@ -68,12 +74,6 @@
       "title": "Pizza am Ohr?",
       "published": "2026-10-07T06:31:40+00:00",
       "thumb": "images/yt/5zcl4xhWsvw.jpg"
-    },
-    {
-      "id": "Onrey_TK93w",
-      "title": "Bunter Schutz für Kinder",
-      "published": "2026-10-07T05:56:53+00:00",
-      "thumb": "images/yt/Onrey_TK93w.jpg"
     }
   ]
 }
