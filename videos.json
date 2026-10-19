@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-19T13:07:32+00:00",
+  "generated": "2026-10-19T22:19:11+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "QV7wdXJA7ZM",
+      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
+      "published": "2026-10-19T20:16:32+00:00",
+      "thumb": "images/yt/QV7wdXJA7ZM.jpg"
+    },
     {
       "id": "0diSP3EZYIE",
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
@@ -68,12 +74,6 @@
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
       "published": "2026-10-10T11:36:57+00:00",
       "thumb": "images/yt/IrE_5hihKqI.jpg"
-    },
-    {
-      "id": "ctFqGc1Au-A",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-09T05:43:02+00:00",
-      "thumb": "images/yt/ctFqGc1Au-A.jpg"
     }
   ]
 }
