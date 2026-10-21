@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-21T17:09:05+00:00",
+  "generated": "2026-10-21T21:39:51+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "9rf2xSatjbI",
+      "title": "Machen Hörgeräte alles lauter?",
+      "published": "2026-10-21T18:51:36+00:00",
+      "thumb": "images/yt/9rf2xSatjbI.jpg"
+    },
     {
       "id": "gKlvJTsNN-A",
       "title": "Wie schreibst du ihn?",
@@ -68,12 +74,6 @@
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
       "published": "2026-10-12T19:43:35+00:00",
       "thumb": "images/yt/36AUpdUdozg.jpg"
-    },
-    {
-      "id": "hei2nmUZDSc",
-      "title": "Wie lange ist deine Tragezeit?",
-      "published": "2026-10-11T07:27:52+00:00",
-      "thumb": "images/yt/hei2nmUZDSc.jpg"
     }
   ]
 }
