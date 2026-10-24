@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-23T21:21:43+00:00",
+  "generated": "2026-10-24T10:54:29+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "y5XKduOL4EQ",
+      "title": "24. October 2026",
+      "published": "2026-10-24T07:08:09+00:00",
+      "thumb": "images/yt/y5XKduOL4EQ.jpg"
+    },
     {
       "id": "QDwVB7-kezI",
       "title": "CEO antwortet, zu kompliziert?",
@@ -68,12 +74,6 @@
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
       "published": "2026-10-13T18:40:25+00:00",
       "thumb": "images/yt/WZz2M_07lXs.jpg"
-    },
-    {
-      "id": "06tooE2oETw",
-      "title": "Was war dein erstes WOW Erlebnis mit Hörgeräten?",
-      "published": "2026-10-13T15:05:54+00:00",
-      "thumb": "images/yt/06tooE2oETw.jpg"
     }
   ]
 }
