@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-25T11:21:30+00:00",
+  "generated": "2026-10-25T16:12:30+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "NFj3You-Ta0",
+      "title": "Jucken durchs Gummi?",
+      "published": "2026-10-25T13:42:21+00:00",
+      "thumb": "images/yt/NFj3You-Ta0.jpg"
+    },
     {
       "id": "y5XKduOL4EQ",
       "title": "24. October 2026",
@@ -68,12 +74,6 @@
       "title": "Was wolltest du schon immer über dein Ohr wissen?",
       "published": "2026-10-14T18:46:22+00:00",
       "thumb": "images/yt/qezmOc3T16U.jpg"
-    },
-    {
-      "id": "WZz2M_07lXs",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-13T18:40:25+00:00",
-      "thumb": "images/yt/WZz2M_07lXs.jpg"
     }
   ]
 }
