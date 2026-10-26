@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-25T20:47:46+00:00",
+  "generated": "2026-10-26T12:55:47+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "Y93jBp5iTso",
+      "title": "Wo gibts die? Erfinder antwortet!",
+      "published": "2026-10-26T10:51:27+00:00",
+      "thumb": "images/yt/Y93jBp5iTso.jpg"
+    },
+    {
+      "id": "gwh78wrYr5U",
+      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
+      "published": "2026-10-26T07:14:34+00:00",
+      "thumb": "images/yt/gwh78wrYr5U.jpg"
+    },
     {
       "id": "NFj3You-Ta0",
       "title": "Jucken durchs Gummi?",
@@ -62,18 +74,6 @@
       "title": "Findest du, Hörverlust sollte bewusster gezeigt werden?",
       "published": "2026-10-15T15:26:07+00:00",
       "thumb": "images/yt/wQMcLbymQB4.jpg"
-    },
-    {
-      "id": "KwGjdOjvnVc",
-      "title": "Was willst du über das Ohr wissen?",
-      "published": "2026-10-15T06:03:28+00:00",
-      "thumb": "images/yt/KwGjdOjvnVc.jpg"
-    },
-    {
-      "id": "qezmOc3T16U",
-      "title": "Was wolltest du schon immer über dein Ohr wissen?",
-      "published": "2026-10-14T18:46:22+00:00",
-      "thumb": "images/yt/qezmOc3T16U.jpg"
     }
   ]
 }
