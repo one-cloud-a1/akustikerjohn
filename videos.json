@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-26T22:37:39+00:00",
+  "generated": "2026-10-27T12:06:25+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "ZhtD1Goi2t4",
+      "title": "Signia MAX: Die neue Revolution bei Hörgeräten?",
+      "published": "2026-10-27T08:23:19+00:00",
+      "thumb": "images/yt/ZhtD1Goi2t4.jpg"
+    },
+    {
+      "id": "cmL5msFtHGk",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-10-27T06:36:43+00:00",
+      "thumb": "images/yt/cmL5msFtHGk.jpg"
+    },
     {
       "id": "Y93jBp5iTso",
       "title": "Wo gibts die? Erfinder antwortet!",
@@ -62,18 +74,6 @@
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
       "published": "2026-10-17T08:44:49+00:00",
       "thumb": "images/yt/sBTc3rk3UuU.jpg"
-    },
-    {
-      "id": "j1xOyUd_j8U",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-15T20:28:40+00:00",
-      "thumb": "images/yt/j1xOyUd_j8U.jpg"
-    },
-    {
-      "id": "wQMcLbymQB4",
-      "title": "Findest du, Hörverlust sollte bewusster gezeigt werden?",
-      "published": "2026-10-15T15:26:07+00:00",
-      "thumb": "images/yt/wQMcLbymQB4.jpg"
     }
   ]
 }
