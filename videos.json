@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-27T12:06:25+00:00",
+  "generated": "2026-10-27T17:57:59+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "jSB6hOnph6c",
+      "title": "😳 Babyphone nicht hörbar",
+      "published": "2026-10-27T14:31:36+00:00",
+      "thumb": "images/yt/jSB6hOnph6c.jpg"
+    },
+    {
+      "id": "Cdi0EjDJ7C0",
+      "title": "Gute oder schlechte Idee?",
+      "published": "2026-10-27T12:49:23+00:00",
+      "thumb": "images/yt/Cdi0EjDJ7C0.jpg"
+    },
     {
       "id": "ZhtD1Goi2t4",
       "title": "Signia MAX: Die neue Revolution bei Hörgeräten?",
@@ -62,18 +74,6 @@
       "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
       "published": "2026-10-19T20:16:32+00:00",
       "thumb": "images/yt/QV7wdXJA7ZM.jpg"
-    },
-    {
-      "id": "0diSP3EZYIE",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-18T07:36:58+00:00",
-      "thumb": "images/yt/0diSP3EZYIE.jpg"
-    },
-    {
-      "id": "sBTc3rk3UuU",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-17T08:44:49+00:00",
-      "thumb": "images/yt/sBTc3rk3UuU.jpg"
     }
   ]
 }
