@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-27T22:10:13+00:00",
+  "generated": "2026-10-28T12:48:22+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "0__lGtlTdiI",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-10-28T06:54:09+00:00",
+      "thumb": "images/yt/0__lGtlTdiI.jpg"
+    },
     {
       "id": "jSB6hOnph6c",
       "title": "😳 Babyphone nicht hörbar",
@@ -68,12 +74,6 @@
       "title": "Wie schreibst du ihn?",
       "published": "2026-10-20T16:16:46+00:00",
       "thumb": "images/yt/gKlvJTsNN-A.jpg"
-    },
-    {
-      "id": "QV7wdXJA7ZM",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-19T20:16:32+00:00",
-      "thumb": "images/yt/QV7wdXJA7ZM.jpg"
     }
   ]
 }
