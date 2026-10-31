@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-30T22:15:56+00:00",
+  "generated": "2026-10-31T12:21:35+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "KFUUKQpqaks",
+      "title": "Trägst du Hörgeräte?",
+      "published": "2026-10-31T09:55:27+00:00",
+      "thumb": "images/yt/KFUUKQpqaks.jpg"
+    },
+    {
+      "id": "jKNn_RD98Lw",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-10-31T07:28:41+00:00",
+      "thumb": "images/yt/jKNn_RD98Lw.jpg"
+    },
     {
       "id": "ZfXpbGreIic",
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
@@ -62,18 +74,6 @@
       "title": "Wo gibts die? Erfinder antwortet!",
       "published": "2026-10-26T10:51:27+00:00",
       "thumb": "images/yt/Y93jBp5iTso.jpg"
-    },
-    {
-      "id": "gwh78wrYr5U",
-      "title": "Welchen Hörverlust findest du am schlimmsten? 👇",
-      "published": "2026-10-26T07:14:34+00:00",
-      "thumb": "images/yt/gwh78wrYr5U.jpg"
-    },
-    {
-      "id": "NFj3You-Ta0",
-      "title": "Jucken durchs Gummi?",
-      "published": "2026-10-25T13:42:21+00:00",
-      "thumb": "images/yt/NFj3You-Ta0.jpg"
     }
   ]
 }
