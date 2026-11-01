@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-31T21:29:53+00:00",
+  "generated": "2026-11-01T13:16:20+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "llBy7t4PeNw",
+      "title": "Weinendes Baby nicht gehört?",
+      "published": "2026-11-01T11:06:08+00:00",
+      "thumb": "images/yt/llBy7t4PeNw.jpg"
+    },
+    {
+      "id": "8DRyQuyYjGo",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-11-01T07:44:48+00:00",
+      "thumb": "images/yt/8DRyQuyYjGo.jpg"
+    },
     {
       "id": "ax8EtjItl5s",
       "title": "John pack aus",
@@ -62,18 +74,6 @@
       "title": "Gute oder schlechte Idee?",
       "published": "2026-10-27T12:49:23+00:00",
       "thumb": "images/yt/Cdi0EjDJ7C0.jpg"
-    },
-    {
-      "id": "ZhtD1Goi2t4",
-      "title": "Signia MAX: Die neue Revolution bei Hörgeräten?",
-      "published": "2026-10-27T08:23:19+00:00",
-      "thumb": "images/yt/ZhtD1Goi2t4.jpg"
-    },
-    {
-      "id": "cmL5msFtHGk",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-10-27T06:36:43+00:00",
-      "thumb": "images/yt/cmL5msFtHGk.jpg"
     }
   ]
 }
