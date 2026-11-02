@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-01T21:58:38+00:00",
+  "generated": "2026-11-02T15:43:25+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "wH6gBhgECUk",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-11-02T13:48:30+00:00",
+      "thumb": "images/yt/wH6gBhgECUk.jpg"
+    },
+    {
+      "id": "LjHo-eQ4OKY",
+      "title": "ReSound Sensia: Das neue Hörgerät von GN – erster Blick auf der EUHA",
+      "published": "2026-11-02T08:32:22+00:00",
+      "thumb": "images/yt/LjHo-eQ4OKY.jpg"
+    },
     {
       "id": "llBy7t4PeNw",
       "title": "Weinendes Baby nicht gehört?",
@@ -62,18 +74,6 @@
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
       "published": "2026-10-28T06:54:09+00:00",
       "thumb": "images/yt/0__lGtlTdiI.jpg"
-    },
-    {
-      "id": "jSB6hOnph6c",
-      "title": "😳 Babyphone nicht hörbar",
-      "published": "2026-10-27T14:31:36+00:00",
-      "thumb": "images/yt/jSB6hOnph6c.jpg"
-    },
-    {
-      "id": "Cdi0EjDJ7C0",
-      "title": "Gute oder schlechte Idee?",
-      "published": "2026-10-27T12:49:23+00:00",
-      "thumb": "images/yt/Cdi0EjDJ7C0.jpg"
     }
   ]
 }
