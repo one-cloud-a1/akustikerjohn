@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-04T14:28:40+00:00",
+  "generated": "2026-11-04T23:38:10+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "O_X84Xi7UVQ",
+      "title": "Neues Starkey-Hörgerät Omega AI+: Was ist wirklich neu? (EUHA 2026)",
+      "published": "2026-11-04T17:00:28+00:00",
+      "thumb": "images/yt/O_X84Xi7UVQ.jpg"
+    },
     {
       "id": "2u9u0i9ru1E",
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
@@ -68,12 +74,6 @@
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
       "published": "2026-10-30T06:32:25+00:00",
       "thumb": "images/yt/HD2HM__7Un0.jpg"
-    },
-    {
-      "id": "GFsT19uZs7U",
-      "title": "Hörst du es?",
-      "published": "2026-10-29T06:35:48+00:00",
-      "thumb": "images/yt/GFsT19uZs7U.jpg"
     }
   ]
 }
