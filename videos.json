@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-07T12:55:45+00:00",
+  "generated": "2026-11-07T21:46:41+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "IGCnAovazKU",
+      "title": "Schonmal gehört?",
+      "published": "2026-11-07T13:33:11+00:00",
+      "thumb": "images/yt/IGCnAovazKU.jpg"
+    },
     {
       "id": "RLI_YwdfOJI",
       "title": "Meister bewertet Kopfhörer",
@@ -68,12 +74,6 @@
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
       "published": "2026-10-31T07:28:41+00:00",
       "thumb": "images/yt/jKNn_RD98Lw.jpg"
-    },
-    {
-      "id": "ZfXpbGreIic",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-10-30T14:38:38+00:00",
-      "thumb": "images/yt/ZfXpbGreIic.jpg"
     }
   ]
 }
