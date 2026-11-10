@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-09T22:17:46+00:00",
+  "generated": "2026-11-10T19:41:05+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "4pxflzsrIOs",
+      "title": "Welcher Hörverlust ist der schlimmste? 👇",
+      "published": "2026-11-10T11:55:59+00:00",
+      "thumb": "images/yt/4pxflzsrIOs.jpg"
+    },
     {
       "id": "IGCnAovazKU",
       "title": "Schonmal gehört?",
@@ -68,12 +74,6 @@
       "title": "Trägst du Hörgeräte?",
       "published": "2026-10-31T09:55:27+00:00",
       "thumb": "images/yt/KFUUKQpqaks.jpg"
-    },
-    {
-      "id": "jKNn_RD98Lw",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-10-31T07:28:41+00:00",
-      "thumb": "images/yt/jKNn_RD98Lw.jpg"
     }
   ]
 }
