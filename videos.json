@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-10T19:41:05+00:00",
+  "generated": "2026-11-11T14:15:22+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "iqMJ3B--vbo",
+      "title": "Was nutzt du?",
+      "published": "2026-11-11T13:35:18+00:00",
+      "thumb": "images/yt/iqMJ3B--vbo.jpg"
+    },
     {
       "id": "4pxflzsrIOs",
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
@@ -68,12 +74,6 @@
       "title": "John pack aus",
       "published": "2026-10-31T14:14:27+00:00",
       "thumb": "images/yt/ax8EtjItl5s.jpg"
-    },
-    {
-      "id": "KFUUKQpqaks",
-      "title": "Trägst du Hörgeräte?",
-      "published": "2026-10-31T09:55:27+00:00",
-      "thumb": "images/yt/KFUUKQpqaks.jpg"
     }
   ]
 }
