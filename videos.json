@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-12T00:38:25+00:00",
+  "generated": "2026-11-12T15:07:53+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "ammZ_79sCWU",
+      "title": "Opas Ohr gerettet?",
+      "published": "2026-11-12T10:54:57+00:00",
+      "thumb": "images/yt/ammZ_79sCWU.jpg"
+    },
+    {
+      "id": "dND6dzbWwjs",
+      "title": "Auracast im Kino, am Bahnhof, im Fernsehen: Ich frage GN, was das Update kann",
+      "published": "2026-11-12T08:41:17+00:00",
+      "thumb": "images/yt/dND6dzbWwjs.jpg"
+    },
     {
       "id": "iqMJ3B--vbo",
       "title": "Was nutzt du?",
@@ -62,18 +74,6 @@
       "title": "Weinendes Baby nicht gehört?",
       "published": "2026-11-01T11:06:08+00:00",
       "thumb": "images/yt/llBy7t4PeNw.jpg"
-    },
-    {
-      "id": "8DRyQuyYjGo",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-11-01T07:44:48+00:00",
-      "thumb": "images/yt/8DRyQuyYjGo.jpg"
-    },
-    {
-      "id": "ax8EtjItl5s",
-      "title": "John pack aus",
-      "published": "2026-10-31T14:14:27+00:00",
-      "thumb": "images/yt/ax8EtjItl5s.jpg"
     }
   ]
 }
