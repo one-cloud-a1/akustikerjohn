@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-12T23:35:09+00:00",
+  "generated": "2026-11-13T19:37:59+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "xHaI7zH5o1Q",
+      "title": "13. November 2026",
+      "published": "2026-11-13T08:45:42+00:00",
+      "thumb": "images/yt/xHaI7zH5o1Q.jpg"
+    },
     {
       "id": "ammZ_79sCWU",
       "title": "Opas Ohr gerettet?",
@@ -68,12 +74,6 @@
       "title": "ReSound Sensia: Das neue Hörgerät von GN – erster Blick auf der EUHA",
       "published": "2026-11-02T08:32:22+00:00",
       "thumb": "images/yt/LjHo-eQ4OKY.jpg"
-    },
-    {
-      "id": "llBy7t4PeNw",
-      "title": "Weinendes Baby nicht gehört?",
-      "published": "2026-11-01T11:06:08+00:00",
-      "thumb": "images/yt/llBy7t4PeNw.jpg"
     }
   ]
 }
