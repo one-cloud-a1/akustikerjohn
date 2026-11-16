@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-15T18:47:55+00:00",
+  "generated": "2026-11-16T21:58:12+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "g7oG_vmLVjg",
+      "title": "Welches Tier hört am besten?",
+      "published": "2026-11-16T13:47:53+00:00",
+      "thumb": "images/yt/g7oG_vmLVjg.jpg"
+    },
+    {
+      "id": "ydeR0mp6SF4",
+      "title": "Opas Ohren gerettet? Warum Leonie Hörakustikerin wird",
+      "published": "2026-11-16T12:35:36+00:00",
+      "thumb": "images/yt/ydeR0mp6SF4.jpg"
+    },
     {
       "id": "xHaI7zH5o1Q",
       "title": "13. November 2026",
@@ -62,18 +74,6 @@
       "title": "Welcher Hörverlust ist der schlimmste? 👇",
       "published": "2026-11-02T18:14:51+00:00",
       "thumb": "images/yt/5bGD4NrDP-4.jpg"
-    },
-    {
-      "id": "wH6gBhgECUk",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-11-02T13:48:30+00:00",
-      "thumb": "images/yt/wH6gBhgECUk.jpg"
-    },
-    {
-      "id": "LjHo-eQ4OKY",
-      "title": "ReSound Sensia: Das neue Hörgerät von GN – erster Blick auf der EUHA",
-      "published": "2026-11-02T08:32:22+00:00",
-      "thumb": "images/yt/LjHo-eQ4OKY.jpg"
     }
   ]
 }
