@@ -1,8 +1,20 @@
 {
-  "generated": "2026-11-19T07:19:21+00:00",
+  "generated": "2026-11-19T20:31:03+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "qYGDJhWq0T4",
+      "title": "ChatGPT in GTA6",
+      "published": "2026-11-19T16:04:51+00:00",
+      "thumb": "images/yt/qYGDJhWq0T4.jpg"
+    },
+    {
+      "id": "rk7lkHscA_o",
+      "title": "Ist dein Stuhl auch so?",
+      "published": "2026-11-19T11:53:41+00:00",
+      "thumb": "images/yt/rk7lkHscA_o.jpg"
+    },
     {
       "id": "Tln0J9B7Cys",
       "title": "KI chillt heute einfach",
@@ -62,18 +74,6 @@
       "title": "Opas Ohr gerettet?",
       "published": "2026-11-12T10:54:57+00:00",
       "thumb": "images/yt/ammZ_79sCWU.jpg"
-    },
-    {
-      "id": "dND6dzbWwjs",
-      "title": "Auracast im Kino, am Bahnhof, im Fernsehen: Ich frage GN, was das Update kann",
-      "published": "2026-11-12T08:41:17+00:00",
-      "thumb": "images/yt/dND6dzbWwjs.jpg"
-    },
-    {
-      "id": "iqMJ3B--vbo",
-      "title": "Was nutzt du?",
-      "published": "2026-11-11T13:35:18+00:00",
-      "thumb": "images/yt/iqMJ3B--vbo.jpg"
     }
   ]
 }
