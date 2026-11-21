@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-21T07:00:58+00:00",
+  "generated": "2026-11-21T19:10:47+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "9jFliZu3WRQ",
+      "title": "1,2 oder 3?",
+      "published": "2026-11-21T09:42:49+00:00",
+      "thumb": "images/yt/9jFliZu3WRQ.jpg"
+    },
     {
       "id": "RXAYI4K1zYk",
       "title": "Hörverlust Mars Edition",
@@ -68,12 +74,6 @@
       "title": "Leonie rettet Opas Ohren?Warum Leonie Hörakustikerin wird",
       "published": "2026-11-16T12:35:36+00:00",
       "thumb": "images/yt/ydeR0mp6SF4.jpg"
-    },
-    {
-      "id": "xHaI7zH5o1Q",
-      "title": "13. November 2026",
-      "published": "2026-11-13T08:45:42+00:00",
-      "thumb": "images/yt/xHaI7zH5o1Q.jpg"
     }
   ]
 }
