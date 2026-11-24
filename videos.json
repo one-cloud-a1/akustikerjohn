@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-24T09:49:36+00:00",
+  "generated": "2026-11-24T22:22:18+00:00",
   "channel": "AkustikerJohn",
   "channelUrl": "https://www.youtube.com/@AkustikerJohn",
   "videos": [
+    {
+      "id": "ofSCWakSbPY",
+      "title": "Das Unsichtbare sichtbar machen: Warum es jetzt diese Schleife gibt",
+      "published": "2026-11-24T10:16:18+00:00",
+      "thumb": "images/yt/ofSCWakSbPY.jpg"
+    },
     {
       "id": "q02AAoLN9zA",
       "title": "Krankenkasse entscheidet über dein Geld?",
@@ -68,12 +74,6 @@
       "title": "Kundenaussagen",
       "published": "2026-11-17T13:49:23+00:00",
       "thumb": "images/yt/oolTpDoLXCM.jpg"
-    },
-    {
-      "id": "hnP_BXSicWs",
-      "title": "Welcher Hörverlust ist der schlimmste? 👇",
-      "published": "2026-11-17T09:44:16+00:00",
-      "thumb": "images/yt/hnP_BXSicWs.jpg"
     }
   ]
 }
